@@ -74,7 +74,7 @@ p {
         background-color: hsl(0, 0%, 100%);
         border-radius: 10px;
         position: relative;
-        left: 3%;
+        left: 15px;
         top: 75px;
         display: flex;
         flex-direction: column;
